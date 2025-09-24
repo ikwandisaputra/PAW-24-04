@@ -37,7 +37,7 @@ body {
 }
 
 .skills-box div {
-  width: 45%; /* biar jadi dua kolom */
+  width: 45%; 
 }
 
 .skills h2, .skills h3 {
